@@ -124,8 +124,8 @@ export const projects = [
     {
         iconUrl: barcoLogo,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'CI/CD',
+        description: '',
+        link: '',
     }
 ];
